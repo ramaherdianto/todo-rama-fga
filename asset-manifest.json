@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-rama-fga/static/css/main.28eead21.css",
+    "main.js": "/todo-rama-fga/static/js/main.c86aa727.js",
+    "static/js/787.acd84998.chunk.js": "/todo-rama-fga/static/js/787.acd84998.chunk.js",
+    "index.html": "/todo-rama-fga/index.html",
+    "main.28eead21.css.map": "/todo-rama-fga/static/css/main.28eead21.css.map",
+    "main.c86aa727.js.map": "/todo-rama-fga/static/js/main.c86aa727.js.map",
+    "787.acd84998.chunk.js.map": "/todo-rama-fga/static/js/787.acd84998.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28eead21.css",
+    "static/js/main.c86aa727.js"
+  ]
+}
